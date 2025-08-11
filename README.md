@@ -4,11 +4,6 @@
 pip install -r requirements.txt
 ```
 
-## Execution 
-
-```python
-python deploiement.py
-```
 
 ---
 
