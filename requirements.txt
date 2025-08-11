@@ -1,0 +1,4 @@
+tensorflow>=2.15.0
+keras>=2.15.0
+numpy>=1.23.5
+scipy>=1.10.0
